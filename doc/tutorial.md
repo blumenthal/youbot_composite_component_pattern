@@ -3,16 +3,16 @@
 ## Table of Contents
 
 *   [Practical Information](#practical-information)
-*   [Assignment 1: The Command Line](#the-command-line)
-*   [Assignment 2: Editors](#editors)
-*   [Assignment 3: Compiling and Makefiles](#compiling-and-makefiles)
+*   [Assignment 1: The Command Line](#assignment-1-the-command-line)
+*   [Assignment 2: Editors](#assignment-2-editors)
+*   [Assignment 3: Compiling and Makefiles](#assignment-3-compiling-and-makefiles)
     *   [Compilation](#compilation)
     *   [Makefiles](#makefiles)
-*   [Assignment 4: Debugging techniques](#debugging-techniques)
-*   [Assignment 5: Version control](#version-control)
+*   [Assignment 4: Debugging techniques](#assignment-4-debugging-techniques)
+*   [Assignment 5: Version control](#assignment-5-version-control)
     *   [git overview](#git-overview)
     *   [Some remarks](#some-remarks)
-*   [Assignment 6: cross development](#cross-development)
+*   [Assignment 6: cross development](#assignment-6-cross-development)
     *   [Cross compilation](#cross-compilation)
     *   [Connecting to the target system](#connecting-to-the-target-system)
 *   [Appendix](#appendix)
@@ -42,8 +42,6 @@ The embedded system used throughout the assingnments is the
 While the first two assignments can be carried out on any modern Linux
 computer, the later ones depend on specific tools which are setup in
 the Robot Lab.
-
-
 
 
 ## Assignment 1: The Command Line
