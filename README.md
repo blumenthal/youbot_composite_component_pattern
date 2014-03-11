@@ -1,3 +1,4 @@
 # Documentation pages for the Composite Component Pattern applied to a KUKA youBot
 
-[Tutorial](doc/tutorial.md)
+* [Installation guide](doc/installation.md)
+* [Tutorial](doc/tutorial.md)
